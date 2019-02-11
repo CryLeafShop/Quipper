@@ -14,5 +14,13 @@ The Quipper distribution also includes implementations of seven non-trivial quan
     Magniez et al.'s Triangle Finding algorithm.
     Regev and Kuperberg's Unique Shortest Vector algorithm. 
     
+# Install:
+unzip Quipper.zip
+rm Quiper.zip (Unecessary, but I like to keep things clean)
+cd INSTALL
+./setup.sh
+
+You'll also notice an update.sh file. This file will remove most of the files then reinstall everything with the latest requirements. MIGHT be moving to be a seperate download for conveniency and efficiency sake.
+
 # Credits: 
 I do not own the quipper language or program as I only made the single step installer and auto update files for the quipper program. If you see this please notice me and send a few dollars to my paypal.me/monroe607
